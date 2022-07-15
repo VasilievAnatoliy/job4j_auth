@@ -6,6 +6,9 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import java.util.Objects;
 
+/**
+ * Модель данных - Аккаунт
+ */
 @Entity
 public class Person {
     @Id
